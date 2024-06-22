@@ -1,0 +1,6 @@
+@webportalapp.API_HostAddress = http://localhost:5035
+
+GET {{webportalapp.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

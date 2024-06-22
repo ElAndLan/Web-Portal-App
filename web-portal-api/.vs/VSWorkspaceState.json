@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\webportalapp.Application",
+    "\\webportalapp.Infrastructure\\Persistence",
+    "\\webportalapp.Infrastructure\\Persistence\\PostgreSQL"
+  ],
+  "SelectedNode": "\\web-portal-api.sln",
+  "PreviewInSolutionExplorer": false
+}
