@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\webportalapp.Application",
-    "\\webportalapp.Infrastructure\\Persistence",
-    "\\webportalapp.Infrastructure\\Persistence\\PostgreSQL"
+    "\\webportalapp.API",
+    "\\webportalapp.Application"
   ],
   "SelectedNode": "\\web-portal-api.sln",
   "PreviewInSolutionExplorer": false

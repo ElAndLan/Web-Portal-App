@@ -1,4 +1,6 @@
-﻿using webportalapp.API.Dtos.Purchase;
+﻿using webportalapp.API.Dtos.Product;
+using webportalapp.API.Dtos.Purchase;
+using webportalapp.API.Dtos.User;
 using webportalapp.Domain.Entities;
 
 namespace webportalapp.API.Mappers

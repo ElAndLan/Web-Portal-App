@@ -11,7 +11,7 @@ using webportalapp.Infrastructure.Persistence.PostgreSQL;
 namespace webportalapp.Infrastructure.Migrations
 {
     [DbContext(typeof(AppSQLContext))]
-    [Migration("20240623022640_init")]
+    [Migration("20240623212041_init")]
     partial class init
     {
         /// <inheritdoc />

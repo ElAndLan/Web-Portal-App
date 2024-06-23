@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "E:\\Code\\Company Web Portal App\\web-portal-api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{31E825A4-9B06-4DD9-BA5A-465C5873280A}|webportalapp.API\\webportalapp.API.csproj|e:\\code\\company web portal app\\web-portal-api\\webportalapp.api\\repositories\\userrepo\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E825A4-9B06-4DD9-BA5A-465C5873280A}|webportalapp.API\\webportalapp.API.csproj|solutionrelative:webportalapp.api\\repositories\\userrepo\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E825A4-9B06-4DD9-BA5A-465C5873280A}|webportalapp.API\\webportalapp.API.csproj|e:\\code\\company web portal app\\web-portal-api\\webportalapp.api\\controllers\\productcontroller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E825A4-9B06-4DD9-BA5A-465C5873280A}|webportalapp.API\\webportalapp.API.csproj|solutionrelative:webportalapp.api\\controllers\\productcontroller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E825A4-9B06-4DD9-BA5A-465C5873280A}|webportalapp.API\\webportalapp.API.csproj|e:\\code\\company web portal app\\web-portal-api\\webportalapp.api\\repositories\\productrepo\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E825A4-9B06-4DD9-BA5A-465C5873280A}|webportalapp.API\\webportalapp.API.csproj|solutionrelative:webportalapp.api\\repositories\\productrepo\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E825A4-9B06-4DD9-BA5A-465C5873280A}|webportalapp.API\\webportalapp.API.csproj|e:\\code\\company web portal app\\web-portal-api\\webportalapp.api\\repositories\\productrepo\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E825A4-9B06-4DD9-BA5A-465C5873280A}|webportalapp.API\\webportalapp.API.csproj|solutionrelative:webportalapp.api\\repositories\\productrepo\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{31E825A4-9B06-4DD9-BA5A-465C5873280A}|webportalapp.API\\webportalapp.API.csproj|e:\\code\\company web portal app\\web-portal-api\\webportalapp.api\\controllers\\usercontroller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31E825A4-9B06-4DD9-BA5A-465C5873280A}|webportalapp.API\\webportalapp.API.csproj|solutionrelative:webportalapp.api\\controllers\\usercontroller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31E825A4-9B06-4DD9-BA5A-465C5873280A}|webportalapp.API\\webportalapp.API.csproj|e:\\code\\company web portal app\\web-portal-api\\webportalapp.api\\dtos\\purchase\\purchasedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31E825A4-9B06-4DD9-BA5A-465C5873280A}|webportalapp.API\\webportalapp.API.csproj|solutionrelative:webportalapp.api\\dtos\\purchase\\purchasedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB968B27-FEFE-4B2D-8801-2B279DDEC449}|webportalapp.domain\\webportalapp.Domain.csproj|e:\\code\\company web portal app\\web-portal-api\\webportalapp.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB968B27-FEFE-4B2D-8801-2B279DDEC449}|webportalapp.domain\\webportalapp.Domain.csproj|solutionrelative:webportalapp.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31E825A4-9B06-4DD9-BA5A-465C5873280A}|webportalapp.API\\webportalapp.API.csproj|e:\\code\\company web portal app\\web-portal-api\\webportalapp.api\\mappers\\purchasemappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31E825A4-9B06-4DD9-BA5A-465C5873280A}|webportalapp.API\\webportalapp.API.csproj|solutionrelative:webportalapp.api\\mappers\\purchasemappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{31E825A4-9B06-4DD9-BA5A-465C5873280A}|webportalapp.API\\webportalapp.API.csproj|e:\\code\\company web portal app\\web-portal-api\\webportalapp.api\\mappers\\productmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E825A4-9B06-4DD9-BA5A-465C5873280A}|webportalapp.API\\webportalapp.API.csproj|solutionrelative:webportalapp.api\\mappers\\productmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{31E825A4-9B06-4DD9-BA5A-465C5873280A}|webportalapp.API\\webportalapp.API.csproj|e:\\code\\company web portal app\\web-portal-api\\webportalapp.api\\mappers\\usermappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31E825A4-9B06-4DD9-BA5A-465C5873280A}|webportalapp.API\\webportalapp.API.csproj|solutionrelative:webportalapp.api\\mappers\\usermappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E825A4-9B06-4DD9-BA5A-465C5873280A}|webportalapp.API\\webportalapp.API.csproj|e:\\code\\company web portal app\\web-portal-api\\webportalapp.api\\dtos\\product\\createproductrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E825A4-9B06-4DD9-BA5A-465C5873280A}|webportalapp.API\\webportalapp.API.csproj|solutionrelative:webportalapp.api\\dtos\\product\\createproductrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31E825A4-9B06-4DD9-BA5A-465C5873280A}|webportalapp.API\\webportalapp.API.csproj|e:\\code\\company web portal app\\web-portal-api\\webportalapp.api\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +49,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{31E825A4-9B06-4DD9-BA5A-465C5873280A}|webportalapp.API\\webportalapp.API.csproj|e:\\code\\company web portal app\\web-portal-api\\webportalapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31E825A4-9B06-4DD9-BA5A-465C5873280A}|webportalapp.API\\webportalapp.API.csproj|solutionrelative:webportalapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E825A4-9B06-4DD9-BA5A-465C5873280A}|webportalapp.API\\webportalapp.API.csproj|e:\\code\\company web portal app\\web-portal-api\\webportalapp.api\\repositories\\userrepo\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E825A4-9B06-4DD9-BA5A-465C5873280A}|webportalapp.API\\webportalapp.API.csproj|solutionrelative:webportalapp.api\\repositories\\userrepo\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB968B27-FEFE-4B2D-8801-2B279DDEC449}|webportalapp.domain\\webportalapp.Domain.csproj|e:\\code\\company web portal app\\web-portal-api\\webportalapp.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB968B27-FEFE-4B2D-8801-2B279DDEC449}|webportalapp.domain\\webportalapp.Domain.csproj|solutionrelative:webportalapp.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB968B27-FEFE-4B2D-8801-2B279DDEC449}|webportalapp.domain\\webportalapp.Domain.csproj|e:\\code\\company web portal app\\web-portal-api\\webportalapp.domain\\entities\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB968B27-FEFE-4B2D-8801-2B279DDEC449}|webportalapp.domain\\webportalapp.Domain.csproj|solutionrelative:webportalapp.domain\\entities\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,51 +69,137 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "DockedWidth": 218,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PurchaseDto.cs",
-              "DocumentMoniker": "E:\\Code\\Company Web Portal App\\web-portal-api\\webportalapp.API\\Dtos\\Purchase\\PurchaseDto.cs",
-              "RelativeDocumentMoniker": "webportalapp.API\\Dtos\\Purchase\\PurchaseDto.cs",
-              "ToolTip": "E:\\Code\\Company Web Portal App\\web-portal-api\\webportalapp.API\\Dtos\\Purchase\\PurchaseDto.cs",
-              "RelativeToolTip": "webportalapp.API\\Dtos\\Purchase\\PurchaseDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Code\\Company Web Portal App\\web-portal-api\\webportalapp.API\\Program.cs",
+              "RelativeDocumentMoniker": "webportalapp.API\\Program.cs",
+              "ToolTip": "E:\\Code\\Company Web Portal App\\web-portal-api\\webportalapp.API\\Program.cs",
+              "RelativeToolTip": "webportalapp.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T04:13:33.343Z",
+              "WhenOpened": "2024-06-22T22:10:36.1Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\Code\\Company Web Portal App\\web-portal-api\\webportalapp.API\\Controllers\\ProductController\\ProductController.cs",
+              "RelativeDocumentMoniker": "webportalapp.API\\Controllers\\ProductController\\ProductController.cs",
+              "ToolTip": "E:\\Code\\Company Web Portal App\\web-portal-api\\webportalapp.API\\Controllers\\ProductController\\ProductController.cs",
+              "RelativeToolTip": "webportalapp.API\\Controllers\\ProductController\\ProductController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwDUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:38:39.325Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PurchaseMappers.cs",
-              "DocumentMoniker": "E:\\Code\\Company Web Portal App\\web-portal-api\\webportalapp.API\\Mappers\\PurchaseMappers.cs",
-              "RelativeDocumentMoniker": "webportalapp.API\\Mappers\\PurchaseMappers.cs",
-              "ToolTip": "E:\\Code\\Company Web Portal App\\web-portal-api\\webportalapp.API\\Mappers\\PurchaseMappers.cs",
-              "RelativeToolTip": "webportalapp.API\\Mappers\\PurchaseMappers.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAOAAAA",
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "E:\\Code\\Company Web Portal App\\web-portal-api\\webportalapp.API\\Repositories\\ProductRepo\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "webportalapp.API\\Repositories\\ProductRepo\\ProductRepository.cs",
+              "ToolTip": "E:\\Code\\Company Web Portal App\\web-portal-api\\webportalapp.API\\Repositories\\ProductRepo\\ProductRepository.cs",
+              "RelativeToolTip": "webportalapp.API\\Repositories\\ProductRepo\\ProductRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wB8AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T04:12:12.268Z",
+              "WhenOpened": "2024-06-23T22:40:18.747Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "E:\\Code\\Company Web Portal App\\web-portal-api\\webportalapp.API\\Repositories\\ProductRepo\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "webportalapp.API\\Repositories\\ProductRepo\\IProductRepository.cs",
+              "ToolTip": "E:\\Code\\Company Web Portal App\\web-portal-api\\webportalapp.API\\Repositories\\ProductRepo\\IProductRepository.cs",
+              "RelativeToolTip": "webportalapp.API\\Repositories\\ProductRepo\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:40:23.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Purchase.cs",
+              "DocumentMoniker": "E:\\Code\\Company Web Portal App\\web-portal-api\\webportalapp.domain\\Entities\\Purchase.cs",
+              "RelativeDocumentMoniker": "webportalapp.domain\\Entities\\Purchase.cs",
+              "ToolTip": "E:\\Code\\Company Web Portal App\\web-portal-api\\webportalapp.domain\\Entities\\Purchase.cs",
+              "RelativeToolTip": "webportalapp.domain\\Entities\\Purchase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:38:07.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 182,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Code\\Company Web Portal App\\web-portal-api\\webportalapp.API\\Controllers\\UserController\\UserController.cs",
+              "RelativeDocumentMoniker": "webportalapp.API\\Controllers\\UserController\\UserController.cs",
+              "ToolTip": "E:\\Code\\Company Web Portal App\\web-portal-api\\webportalapp.API\\Controllers\\UserController\\UserController.cs",
+              "RelativeToolTip": "webportalapp.API\\Controllers\\UserController\\UserController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAqwD8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:23:00.122Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Code\\Company Web Portal App\\web-portal-api\\webportalapp.domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "webportalapp.domain\\Entities\\Product.cs",
+              "ToolTip": "E:\\Code\\Company Web Portal App\\web-portal-api\\webportalapp.domain\\Entities\\Product.cs",
+              "RelativeToolTip": "webportalapp.domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T23:07:25.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "UserMappers.cs",
               "DocumentMoniker": "E:\\Code\\Company Web Portal App\\web-portal-api\\webportalapp.API\\Mappers\\UserMappers.cs",
               "RelativeDocumentMoniker": "webportalapp.API\\Mappers\\UserMappers.cs",
               "ToolTip": "E:\\Code\\Company Web Portal App\\web-portal-api\\webportalapp.API\\Mappers\\UserMappers.cs",
               "RelativeToolTip": "webportalapp.API\\Mappers\\UserMappers.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA8AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T04:10:02.725Z",
+              "WhenOpened": "2024-06-23T22:58:52.974Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
+              "Title": "ProductMappers.cs",
+              "DocumentMoniker": "E:\\Code\\Company Web Portal App\\web-portal-api\\webportalapp.API\\Mappers\\ProductMappers.cs",
+              "RelativeDocumentMoniker": "webportalapp.API\\Mappers\\ProductMappers.cs",
+              "ToolTip": "E:\\Code\\Company Web Portal App\\web-portal-api\\webportalapp.API\\Mappers\\ProductMappers.cs",
+              "RelativeToolTip": "webportalapp.API\\Mappers\\ProductMappers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T23:03:39.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "UserDto.cs",
               "DocumentMoniker": "E:\\Code\\Company Web Portal App\\web-portal-api\\webportalapp.API\\Dtos\\User\\UserDto.cs",
               "RelativeDocumentMoniker": "webportalapp.API\\Dtos\\User\\UserDto.cs",
@@ -85,33 +207,72 @@
               "RelativeToolTip": "webportalapp.API\\Dtos\\User\\UserDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T04:08:27.743Z",
+              "WhenOpened": "2024-06-23T23:06:58.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateProductRequestDto.cs",
+              "DocumentMoniker": "E:\\Code\\Company Web Portal App\\web-portal-api\\webportalapp.API\\Dtos\\Product\\CreateProductRequestDto.cs",
+              "RelativeDocumentMoniker": "webportalapp.API\\Dtos\\Product\\CreateProductRequestDto.cs",
+              "ToolTip": "E:\\Code\\Company Web Portal App\\web-portal-api\\webportalapp.API\\Dtos\\Product\\CreateProductRequestDto.cs",
+              "RelativeToolTip": "webportalapp.API\\Dtos\\Product\\CreateProductRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T23:02:25.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PurchaseMappers.cs",
+              "DocumentMoniker": "E:\\Code\\Company Web Portal App\\web-portal-api\\webportalapp.API\\Mappers\\PurchaseMappers.cs",
+              "RelativeDocumentMoniker": "webportalapp.API\\Mappers\\PurchaseMappers.cs",
+              "ToolTip": "E:\\Code\\Company Web Portal App\\web-portal-api\\webportalapp.API\\Mappers\\PurchaseMappers.cs",
+              "RelativeToolTip": "webportalapp.API\\Mappers\\PurchaseMappers.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T23:01:09.315Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "E:\\Code\\Company Web Portal App\\web-portal-api\\webportalapp.API\\Controllers\\UserController\\UserController.cs",
-              "RelativeDocumentMoniker": "webportalapp.API\\Controllers\\UserController\\UserController.cs",
-              "ToolTip": "E:\\Code\\Company Web Portal App\\web-portal-api\\webportalapp.API\\Controllers\\UserController\\UserController.cs",
-              "RelativeToolTip": "webportalapp.API\\Controllers\\UserController\\UserController.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAowCYAAAAoAAAA",
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\Code\\Company Web Portal App\\web-portal-api\\webportalapp.API\\Repositories\\UserRepo\\UserRepository.cs",
+              "RelativeDocumentMoniker": "webportalapp.API\\Repositories\\UserRepo\\UserRepository.cs",
+              "ToolTip": "E:\\Code\\Company Web Portal App\\web-portal-api\\webportalapp.API\\Repositories\\UserRepo\\UserRepository.cs",
+              "RelativeToolTip": "webportalapp.API\\Repositories\\UserRepo\\UserRepository.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwDAAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T02:49:49.726Z",
+              "WhenOpened": "2024-06-23T22:39:25.012Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Code\\Company Web Portal App\\web-portal-api\\webportalapp.API\\Program.cs",
-              "RelativeDocumentMoniker": "webportalapp.API\\Program.cs",
-              "ToolTip": "E:\\Code\\Company Web Portal App\\web-portal-api\\webportalapp.API\\Program.cs",
-              "RelativeToolTip": "webportalapp.API\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAYAAAA",
+              "DocumentIndex": 12,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "E:\\Code\\Company Web Portal App\\web-portal-api\\webportalapp.API\\Repositories\\UserRepo\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "webportalapp.API\\Repositories\\UserRepo\\IUserRepository.cs",
+              "ToolTip": "E:\\Code\\Company Web Portal App\\web-portal-api\\webportalapp.API\\Repositories\\UserRepo\\IUserRepository.cs",
+              "RelativeToolTip": "webportalapp.API\\Repositories\\UserRepo\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T22:10:36.1Z",
+              "WhenOpened": "2024-06-23T22:38:58.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Code\\Company Web Portal App\\web-portal-api\\webportalapp.domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "webportalapp.domain\\Entities\\User.cs",
+              "ToolTip": "E:\\Code\\Company Web Portal App\\web-portal-api\\webportalapp.domain\\Entities\\User.cs",
+              "RelativeToolTip": "webportalapp.domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:28:21.818Z",
               "EditorCaption": ""
             }
           ]

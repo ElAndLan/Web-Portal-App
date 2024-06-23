@@ -22,8 +22,6 @@
 
   <ItemGroup>
     <Folder Include="Controllers\PurchaseController\" />
-    <Folder Include="Controllers\ProductController\" />
-    <Folder Include="Dtos\Product\" />
   </ItemGroup>
 
 </Project>

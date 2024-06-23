@@ -1,9 +1,7 @@
 ﻿using webportalapp.API.Dtos.User;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using webportalapp.Domain.Entities;
-using webportalapp.Infrastructure.Persistence.PostgreSQL;
 using webportalapp.API.Mappers;
+using webportalapp.API.Repositories.UserRepo;
 
 namespace webportalapp.API.Controllers.UserController
 {
@@ -11,25 +9,26 @@ namespace webportalapp.API.Controllers.UserController
     [ApiController]
     public class UserController : ControllerBase
     {
-        private readonly AppSQLContext _context;
-        public UserController(AppSQLContext context)
+        private readonly IUserRepository _userRepo;
+        public UserController(IUserRepository userRepo)
         {
-            _context = context;
+            _userRepo = userRepo;
         }
 
         [HttpGet]
-        public IActionResult GetUsers()
+        public async Task<IActionResult> GetUsers()
         {
-            var users = _context.Users.ToList()
-                .Select(s => s.ToUserDto());
+            var users = await _userRepo.GetAllAsync();
+
+            var userDto = users.Select(s => s.ToUserDto());
 
             return Ok(users);
         }
 
         [HttpGet("{id}")]
-        public IActionResult GetUserById([FromRoute] long id)
+        public async Task<IActionResult> GetUserById([FromRoute] int id)
         {
-            var user = _context.Users.Find(id);
+            var user = await _userRepo.GetByIdAsync(id);
 
             if (user == null)
             {
@@ -40,13 +39,40 @@ namespace webportalapp.API.Controllers.UserController
         }
 
         [HttpPost]
-        public async Task<IActionResult> AddUser(User user)
+        public async Task<IActionResult> AddUser([FromBody] CreateUserRequestDto userDto)
         {
-            if (user == null) {
+            var userModel = userDto.ToUserFromCreateDto();
+            await _userRepo.CreateAsync(userModel);
+
+            return CreatedAtAction(nameof(GetUserById), new { id = userModel.UID }, userModel.ToUserDto()) ;
+        }
+
+        [HttpPut]
+        [Route("{id}")]
+        public async Task<IActionResult> UpdateUser([FromRoute] int id, [FromBody] UpdateUserRequestDto updateDto)
+        {
+            var userModel = await _userRepo.UpdateAsync(id, updateDto);
+
+            if (userModel == null)
+            {
                 return NotFound();
             }
 
-            return Ok();
+            return Ok(userModel.ToUserDto());
+        }
+
+        [HttpDelete]
+        [Route("{id}")]
+        public async Task<IActionResult> DeleteUser([FromRoute] int id)
+        {
+            var userModel = await _userRepo.DeleteAsync(id);
+
+            if (userModel == null)
+            {
+                return NotFound();
+            }
+
+            return NoContent();
         }
     }
 }

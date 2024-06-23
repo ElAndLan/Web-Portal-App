@@ -14,5 +14,16 @@ namespace webportalapp.API.Mappers
                 Email = userModel.Email
             };
         }
+
+        public static User ToUserFromCreateDto(this CreateUserRequestDto userDto)
+        {
+
+            return new User
+            {
+                Username = userDto.Username,
+                Password = userDto.Password,
+                Email = userDto.Email
+            };
+        }
     }
 }

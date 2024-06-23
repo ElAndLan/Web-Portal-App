@@ -1,6 +1,9 @@
 using webportalapp.Infrastructure;
 using webportalapp.Domain;
 using webportalapp.Application;
+using webportalapp.API.Repositories.UserRepo;
+using webportalapp.API.Repositories.ProductRepo;
+using webportalapp.API.Repositories.PurchaseRepo;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,6 +18,10 @@ builder.Services
     .AddInfrastructureDependency(builder.Configuration)
     .AddApplicationDependency()
     .AddDomainDependency();
+
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddScoped<IPurchaseRepository, PurchaseRepository>();
 
 var app = builder.Build();
 

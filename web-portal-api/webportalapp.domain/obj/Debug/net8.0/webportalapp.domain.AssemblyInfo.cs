@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("webportalapp.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+830b427ba497879eaa56dcb602465d4a62bc1a28")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6103784d62e6c5d777dd138709d0f54a2c39e79a")]
 [assembly: System.Reflection.AssemblyProductAttribute("webportalapp.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("webportalapp.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
