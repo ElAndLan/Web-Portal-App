@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("webportalapp.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14ba4529aefb53cc2b86c64de06111cf529c4c96")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+830b427ba497879eaa56dcb602465d4a62bc1a28")]
 [assembly: System.Reflection.AssemblyProductAttribute("webportalapp.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("webportalapp.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
